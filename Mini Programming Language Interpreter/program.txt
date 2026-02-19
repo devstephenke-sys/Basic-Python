@@ -1,0 +1,7 @@
+# My first mini program
+PRINT Hello, World!
+ADD 5 10
+SUB 20 3
+MUL 4 7
+DIV 15 3
+PRINT Program finished.

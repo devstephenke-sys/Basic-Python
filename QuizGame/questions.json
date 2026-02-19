@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of Kenya?",
+    "options": ["A. Nairobi", "B. Mombasa", "C. Kisumu", "D. Nakuru"],
+    "answer": "A"
+  },
+  {
+    "question": "Which language is used for AI most commonly?",
+    "options": ["A. Java", "B. Python", "C. C++", "D. PHP"],
+    "answer": "B"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "A. Central Processing Unit",
+      "B. Computer Personal Unit",
+      "C. Central Program Utility",
+      "D. Control Processing User"
+    ],
+    "answer": "A"
+  }
+]
